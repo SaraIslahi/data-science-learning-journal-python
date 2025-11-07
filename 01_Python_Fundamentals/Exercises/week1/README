@@ -1,25 +1,31 @@
-Day 1: Starting with Python (Core Fundamentals)
+# 🐍 Day 1: Starting with Python (Core Fundamentals)
 
-Day 1 was dedicated to mastering the absolute basics of the Python language. 
-This module established the foundation required for all future development, covering basic input/output,
-variable management, mathematical operations, and essential control flow using if/else statements.
+* ** Day 1 was dedicated to mastering the absolute basics of the Python language. 
+* ** This module established the foundation required for all future development, covering basic input/output,
+     variable management, mathematical operations, and essential control flow using if/else statements.
 
-   Directory Contents (Day 1)
+# 01: Python Fundamentals
 
-This repository contains the completed solutions for all exercises listed below:
+* **This folder contains exercises and scripts focused on mastering **core Python syntax and language features**. This work is the essential foundation for moving into specialized Data Science libraries (like Pandas and NumPy).
 
-exercise_1_hello_world.py
 
-exercise_2_some_math.py
 
-exercise_3_what_is_the_output.py
+  ## 🎯  Directory Contents (Day 1)
 
-exercise_5_your_information.py
+*This repository contains the completed solutions for all exercises listed below:
 
-exercise_6_a_and_b.py
+* ** exercise_1_hello_world.py
 
-exercise_7_odd_or_even.py
+* ** exercise_2_some_math.py
 
-exercise_8_whats_your_name.py
+* ** exercise_3_what_is_the_output.py
 
-exercise_9_roller_coaster.py
+* ** exercise_5_your_information.py
+
+* ** exercise_6_a_and_b.py
+
+* ** exercise_7_odd_or_even.py
+
+* ** exercise_8_whats_your_name.py
+
+* ** exercise_9_roller_coaster.py
